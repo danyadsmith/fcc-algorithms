@@ -1,0 +1,14 @@
+{
+  "name": "fcc-algorithms",
+  "version": "1.0.0",
+  "description": "Solutions and tests for Free Code Camp algorithm challenges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec/* --reporter spec --no-deprecation --full-trace"
+  },
+  "author": "Danya D. Smith",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
