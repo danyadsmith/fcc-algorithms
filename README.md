@@ -10,11 +10,11 @@ This repository contains my solutions to the Algorithm challenges on [Free Code 
 * Find the Longest Word in a String ☑ 
 * Title Case a Sentence ☑ 
 * Return Largest Numbers in Arrays ☑ 
-* Confirm the Ending
-* Repeat a string repeat a string
-* Truncate a string
-* Chunky Monkey
-* Slasher Flick
+* Confirm the Ending ☑
+* Repeat a string repeat a string ☑
+* Truncate a string ☑
+* Chunky Monkey ☑
+* Slasher Flick ☑
 * Mutations
 * Falsy Bouncer
 * Seek and Destroy
