@@ -15,7 +15,7 @@ This repository contains my solutions to the Algorithm challenges on [Free Code 
 * Truncate a string ☑
 * Chunky Monkey ☑
 * Slasher Flick ☑
-* Mutations
+* Mutations ☑
 * Falsy Bouncer
 * Seek and Destroy
 * Where do I belong
