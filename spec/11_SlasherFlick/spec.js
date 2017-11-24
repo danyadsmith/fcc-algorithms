@@ -11,7 +11,7 @@ describe('11. Slasher Flick', () => {
     it('should return an Array', () => {
       expect(slasher([0, 1, 2], 2)).to.be.a('array');
     });
-    it('should throw an error when the first parameter is not an Array', () => {
+    it('should throw an error when the first argument is not an Array', () => {
       expect(function () {
         slasher(true);
       }).to.throw(TypeError, 'The parameter arr must be an Array.');

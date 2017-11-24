@@ -11,7 +11,7 @@ describe('12. Mutations', () => {
     it('should return a boolean', () => {
       expect(mutation(['hello', 'hi'])).to.be.a('boolean');
     });
-    it('should throw an error when the first parameter is not an Array', () => {
+    it('should throw an error when the first argument is not an Array', () => {
       expect(function () {
         mutation(true);
       }).to.throw(TypeError, 'The parameter arr must be an Array.');

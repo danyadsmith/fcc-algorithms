@@ -11,7 +11,7 @@ describe('13. Falsy Bouncer', () => {
     it('should return an Array', () => {
       expect(bouncer([0, false, undefined, 'hello'])).to.be.a('array');
     });
-    it('should throw an error when the first parameter is not an Array', () => {
+    it('should throw an error when the first argument is not an Array', () => {
       expect(function () {
         bouncer(true);
       }).to.throw(TypeError, 'The parameter arr must be an Array.');
