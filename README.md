@@ -19,4 +19,4 @@ This repository contains my solutions to the Algorithm challenges on [Free Code 
 * Falsy Bouncer ☑
 * Seek and Destroy ☑
 * Where do I belong ☑
-* Caesars Cipher
+* Caesars Cipher ☑
